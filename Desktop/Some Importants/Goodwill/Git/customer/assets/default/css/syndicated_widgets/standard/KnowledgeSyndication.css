@@ -1,0 +1,144 @@
+div.rn_Hide
+{
+    display:none;
+}
+div.rn_Show
+{
+    display:block;
+}
+
+div.rn_SearchArea
+{
+    padding-bottom: 5px;
+}
+
+div.rn_SearchBox
+{
+    display:inline;
+}
+
+div.rn_SearchButton
+{
+    display:inline;
+}
+
+div.rn_Corrections
+{
+    padding-bottom: 5px;
+    font-size:.75em;
+    font-weight:normal;
+
+}
+
+div.rn_Corrections .rn_WordCorrection
+{
+    font-size:1em;
+    font-weight:normal;
+}
+
+div.rn_Suggestions
+{
+    font-size:.75em;
+    font-weight:normal;
+}
+
+div.rn_Suggestions .rn_SearchSuggestion
+{
+
+}
+
+div.rn_Documents
+{
+    margin-top: 2px;
+    width:100%;
+    border:1px solid black;
+    background-color:whitesmoke;
+    padding-bottom: 1px;
+    padding-left: 2px;
+}
+
+div.rn_Documents h3
+{
+    font-size:.75em;
+    font-weight:bold;
+}
+
+
+div.rn_Documents .rn_List
+{
+    font-size:.75em;
+    font-weight:normal;
+}
+
+div.rn_Documents .rn_List li.rn_Item span.rn_Title
+{
+    font-size:1em;
+    font-weight:normal;
+}
+
+div.rn_Documents .rn_List li.rn_Item span.rn_Title a
+{
+    font-size:1em;
+    font-weight:normal;
+    text-decoration:underline;
+}
+
+div.rn_Documents .rn_List li.rn_Item span.rn_Description
+{
+    font-size:1em;
+    font-weight:normal;
+}
+
+div.rn_Content
+{
+
+    padding-bottom: 5px;
+}
+
+div.rn_Content .rn_List
+{
+    font-size:.75em;
+    font-weight:normal;
+}
+
+div.rn_Content .rn_List li.rn_Item span.rn_Title
+{
+    font-size:1em;
+    font-weight:normal;
+}
+
+div.rn_Content .rn_List li.rn_Item span.rn_Title a
+{
+    font-size:1em;
+    font-weight:normal;
+    text-decoration:underline;
+}
+
+div.rn_Content .rn_List li.rn_Item span.rn_Description
+{
+    font-size:1em;
+    font-weight:normal;
+}
+
+div.rn_Navigation
+{
+    position: relative;
+}
+
+div.rn_Navigation a
+{
+    font-size:.75em;
+    font-weight:normal;
+    text-decoration:underline;
+}
+
+.rn_screen_reader_only
+{
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
+

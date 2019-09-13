@@ -1,0 +1,238 @@
+/*
+ * These styles are referenced for use in the Chat client
+*/
+
+#doc 
+{
+    position:relative;
+}
+
+#status_details_text
+{
+    overflow:auto;
+    width:60%;
+    height:5em;    
+    background-color: white;        
+    font: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1.0em;
+    border: 2px solid;
+    padding: 0.3em;
+}
+
+#chat_body 
+{
+    width:0px;
+    height:0px;
+    background-color: #C6C6B5;
+    font:12px sans-serif;
+    padding:1em;
+    position:relative;
+    border: 2px solid #666666;
+}
+
+#chat_hours
+{
+    font:12px sans-serif;
+    text-align: center;
+}
+    
+#chat_dialog
+{
+    overflow:auto;
+    width:99%;
+    height:15em;    
+    background-color: white;        
+    font: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1.0em;
+    border: 1px solid;
+    padding: 0.3em;
+}
+
+#chat_dialog_print
+{
+    font: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+}
+
+#chat_text
+{
+    overflow:auto;
+    width:99%;
+    height:5em;
+    background-color: white;        
+    font: Verdana, Arial, Helvetica, sans-serif;        
+    font-size: 1.0em;
+    border: 1px solid;
+    padding: 0.3em;
+}
+
+div.status 
+{
+    width: 100%;
+    font-size: 14px;
+    color: #FFFFFF;
+    background-color: #666666;
+    text-indent: 5px;	
+}
+
+.btn
+{
+    cursor: pointer;
+    border: 1px solid black;
+    height: 24px;
+    background-color: #F6F4F1;
+}
+
+.btn_mouseover
+{
+    cursor: pointer;
+    background: #666666;
+    color: white;
+    border-color: #c63;
+}
+
+.btn_focus
+{   
+    cursor: pointer;
+    background: #666666;
+    color: white;
+    border-color: black;
+}
+
+	                
+span.span_button
+{
+    padding: 1px;
+}
+
+span.user_text_prefix
+{
+    color: #990000;
+    font-size: 10pt;
+}
+
+span.agent_text_prefix
+{
+    color: #000099;
+    font-size: 10pt;
+}
+
+span.action_span
+{
+    color: #000099;
+    font-size: 10pt;
+}
+
+strong.bold
+{
+    font-weight: bold;
+}
+
+textarea
+{
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 10pt;
+}
+
+#logo_img
+{
+	width: 100px;
+	height: 75px;
+}
+
+#status_logo_container
+{
+    width: 600px;
+    height: 125px;
+    padding: 0;
+    margin: 0;
+    clear: both;
+}
+
+#status_logo_container .status_left
+{
+    width: 500px;
+    height: 125px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+#status_logo_container .logo_right
+{
+    width: 100px;
+    height: 125px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#anim_color_from
+{
+    color: #FF0000;
+}
+
+#anim_color_to
+{
+    color: #000000;
+}
+
+blockquote,ul,ol,dl 
+{
+	margin:1em;
+}
+
+ol,ul,dl 
+{
+	margin-left:2em;
+}
+ol li 
+{
+	list-style: decimal outside;	
+}
+ul li 
+{
+	list-style: disc outside;
+}
+
+h1, h2, h3, h4, h5, h6 
+{
+    font-weight: bold;
+}
+
+h6
+{
+    font-size: 8pt;
+}
+
+h5
+{
+    font-size: 10pt;
+}
+
+h4
+{
+    font-size: 12pt;
+}
+
+h3
+{
+    font-size: 14pt;
+}
+
+h2
+{
+    font-size: 18pt;
+}
+
+h1
+{
+    font-size: 24pt;
+}
+
+strong
+{
+    font-weight:bold;
+}

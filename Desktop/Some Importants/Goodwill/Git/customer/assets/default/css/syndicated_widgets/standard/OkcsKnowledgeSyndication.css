@@ -1,0 +1,220 @@
+.rn_SearchField {
+    background: #40526b;
+    color: #fff;
+    padding: 1em 0;
+    text-shadow: 0 1px #000;
+}
+
+.rn_SearchBox {
+	display: inline-block;
+}
+
+.rn_SearchButton {
+	width: 24%;
+	display: inline-block;
+}
+
+.rn_NoResults {
+	font-size: 0.75em;
+	font-weight: normal;
+}
+
+.rn_Footer {
+    background: #efefef;
+    padding: 2em 1em;
+}
+
+.rn_Footer a {
+	color: #3b6db1;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+.OkcsSyndicateWidget h3 {
+	color: #333;
+    font-size: 1.75em;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+.rn_List a {
+	color: #193466;
+    text-decoration: underline;
+	font-size: 0.75em;
+	font-weight: normal;
+    line-height: 1.5em;
+}
+
+.rn_SearchResultTitle {
+    background: #536a8b none repeat scroll 0 0;
+    border: 1px solid #ccc;
+    color: #FFF;
+    font-size: 1.2em;
+    line-height: 1.5em;
+    padding: 0.5em;
+    text-align: center;
+	display: none;
+}
+
+.rn_SearchExcerpt {
+    line-height: 1.5em;
+	max-height: 4em;
+    overflow: hidden;
+	font-size: 0.75em;
+	margin-left: 1.3em;
+}
+
+.rn_ResultLink {
+    line-height: 1.75em;
+	text-decoration: underline;
+	font-size: 0.75em;
+	font-weight: normal;
+	display: list-item;
+	list-style-type: disc;
+	margin-left: 1.3em;
+}
+
+.rn_SnippetLevel3 {
+    background-color: #D8DFE8;
+    font-weight: bold;
+}
+
+.rn_SnippetLevel1 {
+    background-color: #D8DFE8;
+    font-weight: normal;
+}
+
+.rn_SnippetLevel2 {
+    background-color: #D8DFE8;
+    font-weight: bold;
+}
+
+.rn_NavigateMore {
+    font-size: 0.75em;
+    margin-top: 2em;
+}
+
+.rn_screen_reader_only {
+    height: 1px;
+    left: -10000px;
+    overflow: hidden;
+    position: absolute;
+    top: auto;
+    width: 1px;
+}
+
+.rn_SearchResultIcon:before {
+      position: relative;
+}
+
+.rn_SearchResultIcon {
+    height: 16px;
+    overflow: hidden;
+    vertical-align: middle;
+    width: 16px;
+}
+
+.rn_File_document_plain_green:before {
+    top: 0;
+}
+
+.rn_File_cms_xml:before {
+    top: -16px;
+}
+
+.rn_File_open_office_document:before {
+    top: -32px;
+}
+
+.rn_File_html:before {
+    top: -49px;
+}
+
+.rn_File_image:before {
+    top: -66px;
+}
+
+.rn_File_iqxml:before {
+    top: -82px;
+}
+
+.rn_File_ms_excel:before {
+    top: -98px;
+}
+
+.rn_File_ms_powerpoint:before {
+    top: -113px;
+}
+
+.rn_File_ms_word:before {
+    top: -129px;
+}
+
+.rn_File_news:before {
+    top: -145px;
+}
+
+.rn_File_null:before {
+    top: -161px;
+}
+
+.rn_File_pdf:before {
+    top: -177px;
+}
+
+.rn_File_rtf:before {
+    top: -192px;
+}
+
+.rn_File_table:before {
+    top: -209px;
+    width: 18px;
+    height: 15px;
+}
+
+.rn_File_text:before {
+    top: -224px;
+}
+
+.rn_File_message:before {
+    top: -284px;
+}
+
+.rn_File_messages:before {
+    top: -300px;
+}
+
+.rn_File_trail_arrow:before {
+    top: -314px;
+    width: 9px;
+    height: 9px;
+}
+
+.rn_File_wizard_marker:before {
+    top: -325px;
+    width: 20px;
+    height: 19px;
+}
+
+.rn_File_wizard_marker_rtl:before {
+    top: -345px;
+    width: 20px;
+    height: 19px;
+}
+
+.rn_File_xml:before {
+    top: -254px;
+}
+
+.rn_Intent {
+    max-height: 40px;
+    overflow: hidden;
+}
+
+.rn_Hide {
+    display: none;
+}
+
+.rn_OkcsSearchSearchResults {
+    padding-top: 1em;
+}
